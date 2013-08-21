@@ -1,0 +1,775 @@
+This is e-TeX, Version 3.141592-2.2 (MiKTeX 2.4) (preloaded format=latex 2006.4.10)  4 JUL 2006 14:55
+entering extended mode
+**BookBody.tex
+(BookBody.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, french, russian, loaded.
+(C:\texmf\tex\latex\base\article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(C:\texmf\tex\latex\base\size10.clo
+File: size10.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+ (C:\texmf\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+(C:\texmf\tex\generic\babel\babel.sty
+Package: babel 2005/05/21 v3.8g The Babel package
+ (C:\texmf\tex\generic\babel\russianb.ldf
+Language: russianb 2005/03/29 v1.1r Russian support from the babel system
+ (C:\texmf\tex\generic\babel\babel.def
+File: babel.def 2005/05/21 v3.8g Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+(C:\texmf\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2004/01/26 v1.0g Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 199.
+)) (C:\texmf\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen104
+)
+(C:\texmf\tex\latex\tools\theorem.sty
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks14
+\theorem@bodyfont=\toks15
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+ (C:\texmf\tex\latex\tools\thp.sty
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+)) (C:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2005/12/29 v1.2 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+ (C:\texmf\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\c@definition=\count88
+ (BookBody.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+(C:\texmf\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Warning: Label `fig_infix' multiply defined.
+
+
+LaTeX Warning: Label `fig_squares' multiply defined.
+
+
+LaTeX Warning: Label `fig_clientserver' multiply defined.
+
+
+LaTeX Warning: Label `fig_let' multiply defined.
+
+
+LaTeX Warning: Label `fig_let3' multiply defined.
+
+
+LaTeX Warning: Label `fig_naturalnums' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 41.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 49.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 53.
+(C:\texmf\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--200
+
+ []
+
+[6]
+Overfull \hbox (24.51512pt too wide) in paragraph at lines 236--237
+\T2A/cmr/m/n/10 уже име-ю-щих-с€. Ќа-при-мер, тип \T2A/cmtt/m/n/10 Person -> Name \T2A/cmr/m/n/10 €в-л€-ет-с€ точ-ным эк
+-ви-ва-лен-том \T2A/cmtt/m/n/10 (String,Address)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+[8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 305.
+ (C:\texmf\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 305.
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+[12]
+Overfull \hbox (17.82231pt too wide) in paragraph at lines 491--492
+\T2A/cmtt/m/n/10 infix\T2A/cmr/m/n/10 . »ме-ет-с€ воз-мож-ность за-да-вать устой-чи-вость сра-зу несколь-ких опе-ра-то-р
+ов/конструкторов.
+ []
+
+
+Overfull \hbox (9.02257pt too wide) in paragraph at lines 499--500
+[][]\T2A/cmr/m/n/10 ƒругими сло-ва-ми, \T2A/cmtt/m/n/10 bot \T2A/cmr/m/n/10 €в-л€-ет-с€ неза-вер-ша-ю-щим-с€ вы-ра-же-ни
+-ем (non-terminating expression).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--543
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 590--591
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
+
+ []
+
+[15]
+Overfull \hbox (17.76642pt too wide) in paragraph at lines 603--604
+\T2A/cmr/m/it/10 вер-жи-мы-ми \T2A/cmr/m/n/10 (irrefutable), в про-ти-во-по-лож-ность \T2A/cmr/m/it/10 опро-вер-жи-мым \
+T2A/cmr/m/n/10 (refutable). Ўаб-лон из \T2A/cmtt/m/n/10 contrived
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--604
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--628
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 721--722
+
+ []
+
+
+Overfull \hbox (3.7272pt too wide) in paragraph at lines 742--743
+[]\T2A/cmr/m/n/10 ¬ Haskell су-ще-сву-ет ещЉ один тип шаб-ло-нов. »м да-но на-зва-ние \T2A/cmr/m/it/10 ле-ни-вые шаб-ло-
+ны \T2A/cmr/m/n/10 (lazy patterns)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+
+ []
+
+
+Overfull \hbox (7.3861pt too wide) in paragraph at lines 744--745
+\T2A/cmr/m/n/10 мер, бес-ко-неч-ные спис-ки€ €в-л€-ют-с€ иде-лаь-ной ос-но-вой дл€ на-пи-са-ни€ \T2A/cmr/m/it/10 си-му-л
+€-то-ров \T2A/cmr/m/n/10 (simulation
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 757--758
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 769--770
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--812
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 813--814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
+
+ []
+
+
+Overfull \hbox (10.66106pt too wide) in paragraph at lines 848--849
+[][]\T2A/cmr/m/n/10 Ёти две фор-мы вло-жен-ной об-ла-сти ви-ди-мо-сти очень по-хо-жи, но помни-те, что \T2A/cmtt/m/n/10 
+let\T2A/cmr/m/n/10 -выражени€
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 863--875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 903--904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--906
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 933--934
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 973--974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 985--986
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 995--996
+
+ []
+
+
+Overfull \hbox (2.72672pt too wide) in paragraph at lines 1009--1010
+[][]\T2A/cmr/m/n/10 ќбратите вни-ма-ние на кон-текст в де-кла-ра-ции клас-са. \T2A/cmtt/m/n/10 Eq \T2A/cmr/m/n/10 €в-л€-
+ет-с€ \T2A/cmr/m/it/10 су-перк-лас-сом \T2A/cmr/m/n/10 (superclass)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1024
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1047
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1067--1068
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1072
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1083
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1093
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1096
+
+ []
+
+[26]
+Overfull \hbox (13.5317pt too wide) in paragraph at lines 1117--1119
+\T2A/cmtt/m/n/10 Natural\T2A/cmr/m/n/10 , един-ствен-ный кон-струк-тор ко-то-ро-го со-дер-жит один \T2A/cmtt/m/n/10 Inte
+ger\T2A/cmr/m/n/10 .  он-струк-тор \T2A/cmtt/m/n/10 MakeNatural
+ []
+
+
+Overfull \hbox (44.85233pt too wide) in paragraph at lines 1123--1131
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1147
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+ []
+
+[28]
+Overfull \hbox (5.8778pt too wide) in paragraph at lines 1174--1175
+\T2A/cmtt/m/n/10 pointy\T2A/cmr/m/n/10 . “а-кие име-на мо-гут быть ис-поль-зо-ва-ны в ка-че-стве \T2A/cmr/m/it/10 функци
+и-селектора \T2A/cmr/m/n/10 (selector function)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1199--1200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1217--1218
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1251--1252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1255
+
+ []
+
+[31] (TranslationGlossary.tex [32
+
+]) [33] (BookBody.aux (TranslationGlossary.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1577 strings out of 95683
+ 17128 string characters out of 1193226
+ 68314 words of memory out of 1063845
+ 4540 multiletter control sequences out of 60000
+ 17326 words of font info for 39 fonts, out of 1000000 for 2000
+ 198 hyphenation exceptions out of 4999
+ 29i,11n,24p,931b,289s stack positions out of 5000i,500n,10000p,200000b,32768s
+
+Output written on BookBody.dvi (33 pages, 174448 bytes).
